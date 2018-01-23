@@ -203,7 +203,7 @@ else {
 
 //---------------------------------------------------------------------------------------------
 
-public class Drzewa1 {
+public class Drzewa4 {
  
     public static void main(String[] args) {
  
