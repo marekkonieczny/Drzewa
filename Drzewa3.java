@@ -193,7 +193,7 @@ else {
 
 //---------------------------------------------------------------------------------------------
 
-public class Drzewa {
+public class Drzewa3 {
  
     public static void main(String[] args) {
  
